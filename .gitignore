@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model artifacts and generated reports (regenerate via src/train.py, src/evaluate.py)
+models/*.joblib
+reports/figures/*.png
+reports/*.csv
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
