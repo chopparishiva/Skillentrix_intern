@@ -124,5 +124,4 @@ Being upfront about what this repo doesn't do, so it doesn't oversell itself:
 [MIT](LICENSE)
 
 ## Author
-
-George Youhana
+CHOPPARI SHIVA
